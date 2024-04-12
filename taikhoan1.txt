@@ -1,5 +1,4 @@
-day la file cua taikhoan1 branch conflic
-test 1
-test conflic 2
-test conflic 1
+1
+day la file cua taikhoan1
+2
 
